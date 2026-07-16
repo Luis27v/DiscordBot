@@ -32,3 +32,14 @@ The Project has it's main objective to centralize and the management of a Minecr
 - Diagrama de Funcionamento
 
 ![Alt Text](serverdiag.png)
+
+## Roadmap 
+
+- [x] Criar bot
+- [ ] Integrar Servidor
+- [ ] Chat
+- [ ] Dashboard
+
+## Licença
+<div align = "center">
+This Project is Licensed by **GPL-3.0 License** 
