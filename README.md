@@ -14,5 +14,5 @@ O projeto tem como objetivo principal, centrlizar o gerenciamento do servidor de
 
 ## Licença
 <div align = "center">
-This Project is Licensed by **GPL-3.0 License** /n
+This Project is Licensed by **GPL-3.0 License**\\
 Projeto Sob **Licença GPL-3.0**
