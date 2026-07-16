@@ -2,7 +2,7 @@
 
 # Discord Minecraft Integration Bot
 
-> Criação de um Bot de Discord com integração ao servidor de minecraft, desenvolvido em Python
+Criação de um Bot de Discord com integração ao servidor de minecraft, desenvolvido em Python
  </div>
 
 ---
