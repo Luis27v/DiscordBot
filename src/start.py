@@ -3,7 +3,7 @@ import discord
 intents = discord.Itents.default()
 intents.message_content = True
 
-client = discod.Client(intents=intents)
+client = discord.Client(intents=intents)
 
 @client.event
 async def on_ready():
